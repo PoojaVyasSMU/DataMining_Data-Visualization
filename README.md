@@ -1,0 +1,2 @@
+# DataMining_Data-Visualization
+We are interested in how federal, non-military employment was impacted by the transition from president George Bush to president Barack Obama to learn about the impact of the difference in policy between the two administrations on the federal government. What agencies increased/decreased staffing size? What agencies had more or less turnover? Do those changes align with stated policy goals? Is agency staffing impacted by events?
